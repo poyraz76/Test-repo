@@ -15,6 +15,10 @@ movetobin = ["arch", "basename", "cat", "chgrp", "chmod", "chown", "cp", "cut", 
              "nice", "pwd", "readlink", "rm", "rmdir", "sleep", "sort", "stty", "sync", "touch",
              "true", "uname", "unlink", "vdir"]
 
+
+
+  
+
 symtousrbin = ["env", "cut", "readlink"]
 
 def setup():
